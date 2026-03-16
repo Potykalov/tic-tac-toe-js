@@ -1,4 +1,4 @@
-# ❌⭕ Tic-Tac-Toe
+# ❌⭕ Tic-Tac-Toe (Крестики-нолики)
 
 ![Game Demo](assets/demo.gif)
 
